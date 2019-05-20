@@ -2,8 +2,8 @@
   * World :heart:
   
 - Hello
-  - World :dead:
+  - World :smiley:
 
 1. Hello
-  1. World :burger:
+  1. World :nepal:
 
